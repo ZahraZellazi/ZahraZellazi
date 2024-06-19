@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zahra Zellazi</h1>
 <h3 align="center">A passionate Software Engineering student from Tunisia</h3>
-🔭 I’m currently working on Django Assurance
+🔭 I’m currently working on To Do List
 
 🌱 I’m currently learning Django / MongoDB / Node.js / Express.js
 
