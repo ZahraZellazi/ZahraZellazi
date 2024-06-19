@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineering student from Tunisia</h3>
 🔭 I’m currently working on Django Assurance
 
-🌱 I’m currently learning Java / JavaFX / Django / MongoDB / Node.js / Express.js
+🌱 I’m currently learning Django / MongoDB / Node.js / Express.js
 
 📫 How to reach me: Zahra.zellazi@esprit.tn
 
