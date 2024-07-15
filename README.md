@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineering student from Tunisia</h3>
 🔭 I’m currently working on To Do List
 
-🌱 I’m currently learning Django / MongoDB / Node.js / Express.js
+🌱 I’m currently learning Django / MongoDB / Javascript / React
 
 📫 How to reach me: Zahra.zellazi@esprit.tn
 
