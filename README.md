@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zahra Zellazi Aspiring Software Engineer | Passionate Web Developer | Data Science Enthusiast</h1>
+<h1 align="center">Hi 👋, I'm Zahra Zellazi </h1>
+<h 2Aspiring Software Engineer | Passionate Web Developer | Data Science Enthusiast</h2>
 <h3 align="center">I’m a dedicated and passionate Software Engineering student , driven by a desire to build innovative solutions that can make an impact. My journey in software development began with a curiosity about how technology works, and it has since evolved into a full-fledged passion for both backend and frontend development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrazellazi&label=Profile%20views&color=0e75b6&style=flat" alt="zahrazellazi" /> </p>
@@ -7,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-👨‍💻 **What I Do.** I have a solid foundation in full-stack development, with hands-on experience in backend technologies like Express.js, Node.js, and MongoDB, alongside frontend technologies like React.js and Bootstrap. My focus is on crafting user-friendly and responsive applications, and I enjoy tackling complex challenges in both web and software development.
+- 👨‍💻 **What I Do.** I have a solid foundation in full-stack development, with hands-on experience in backend technologies like Express.js, Node.js, and MongoDB, alongside frontend technologies like React.js and Bootstrap. My focus is on crafting user-friendly and responsive applications, and I enjoy tackling complex challenges in both web and software development.
 
 - 🔭 **I’m currently working on.** [karriery-timesheet](https://github.com/ZahraZellazi/Karriery-Timesheet)
 
