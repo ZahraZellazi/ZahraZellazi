@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zahra Zellazi </h1>
 <h2> Aspiring Software Engineer | Passionate Web Developer | Data Science Enthusiast </h2>
-<h3 align="center">I’m a dedicated and passionate Software Engineering student , driven by a desire to build innovative solutions that can make an impact. My journey in software development began with a curiosity about how technology works, and it has since evolved into a full-fledged passion for both backend and frontend development.</h3>
+<h6 align="center">I’m a dedicated and passionate Software Engineering student , driven by a desire to build innovative solutions that can make an impact. My journey in software development began with a curiosity about how technology works, and it has since evolved into a full-fledged passion for both backend and frontend development.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrazellazi&label=Profile%20views&color=0e75b6&style=flat" alt="zahrazellazi" /> </p>
 
