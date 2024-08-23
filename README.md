@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 **What I Do.** I have a solid foundation in full-stack development, with hands-on experience in backend technologies like Express.js, Node.js, and MongoDB, alongside frontend technologies like React.js and Bootstrap. My focus is on crafting user-friendly and responsive applications, and I enjoy tackling complex challenges in both web and software development.
+- 👨‍💻 **What I Do.** I have a solid foundation in full-stack development, with hands-on experience in backend technologies like **ExpressJs.** , **NodeJs.**, and **MongoDB.**, alongside frontend technologies like **ReactJs.** and **Bootstrap.**. My focus is on crafting user-friendly and responsive applications, and I enjoy tackling complex challenges in both web and software development.
 
 - 🔭 **I’m currently working on.** [karriery-timesheet](https://github.com/ZahraZellazi/Karriery-Timesheet)
 
-- 🌱 **What I’m Learning.** While I continue to enhance my skills in full-stack development, I’m also starting to explore the exciting field of data science. From understanding data structures to beginning my journey into machine learning and data analysis, I'm eager to expand my skill set and explore new possibilities in this growing field.
+- 🌱 **What I’m Learning.** While I continue to enhance my skills in full-stack development, I’m also starting to explore the exciting field of **data science.**. From understanding data structures to beginning my journey into **machine learning.** and **data analysis.**, I'm eager to expand my skill set and explore new possibilities in this growing field.
 
 - 📫 How to reach me **Zahra.zellazi@esprit.tn**
 
