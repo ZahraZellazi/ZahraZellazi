@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Zahra Zellazi</h1>
-<h2 align="center">Aspiring data science enthusiast</h2>
-<h5 align="center">I’m a dedicated and passionate Software Engineering student, driven by a desire to build innovative solutions that can make an impact. My journey in software development began with a curiosity about how technology works, and it has since evolved into a full-fledged passion for both backend and frontend development , and i started diving more into the data science and analysis field .</h5>
+<h2 align="center">Aspiring Data Science Enthusiast</h2>
+<h5 align="center">
+I’m a dedicated and passionate Software Engineering student, driven by a desire to build innovative solutions that can make an impact. 
+My journey in software development began with a curiosity about how technology works, and it has since evolved into a full-fledged passion for both backend and frontend development, 
+and now I am diving deeper into data science and analysis.
+</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrazellazi&label=Profile%20views&color=0e75b6&style=flat" alt="zahrazellazi" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=zahrazellazi&label=Profile%20views&color=0e75b6&style=flat" alt="zahrazellazi" /> 
+</p>
 
 ---
 
 ### **🔭 Current Projects**
-- **[churn prediction]([https://github.com/ZahraZellazi/Karriery-Timesheet](https://github.com/ZahraZellazi/ChurnPrediction))**.
-- **Customer Churn Prediction** with Python & Jupyter Notebook.
+- **[Customer Churn Prediction](https://github.com/ZahraZellazi/ChurnPrediction)**.
 - **ANOVA Project**: Advanced statistical analysis with R.
 
 ---
@@ -17,43 +22,43 @@
 
 #### **Frontend:**
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="path-to-your-icons/react.png" alt="React" width="50" height="50" />
+  <img src="path-to-your-icons/html5.png" alt="HTML5" width="50" height="50" />
+  <img src="path-to-your-icons/css3.png" alt="CSS3" width="50" height="50" />
+  <img src="path-to-your-icons/bootstrap.png" alt="Bootstrap" width="50" height="50" />
+  <img src="path-to-your-icons/tailwind.png" alt="Tailwind CSS" width="50" height="50" />
 </p>
 
 #### **Backend:**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="path-to-your-icons/nodejs.png" alt="Node.js" width="50" height="50" />
+  <img src="path-to-your-icons/express.png" alt="Express.js" width="50" height="50" />
+  <img src="path-to-your-icons/django.png" alt="Django" width="50" height="50" />
+  <img src="path-to-your-icons/php.png" alt="PHP" width="50" height="50" />
+  <img src="path-to-your-icons/symfony.png" alt="Symfony" width="50" height="50" />
 </p>
 
 #### **Databases:**
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Azure%20Database-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Database" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  <img src="path-to-your-icons/mysql.png" alt="MySQL" width="50" height="50" />
+  <img src="path-to-your-icons/mongodb.png" alt="MongoDB" width="50" height="50" />
+  <img src="path-to-your-icons/azure.png" alt="Azure Database" width="50" height="50" />
+  <img src="path-to-your-icons/sql.png" alt="SQL" width="50" height="50" />
 </p>
 
 #### **Data Analysis & Machine Learning:**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI" />
+  <img src="path-to-your-icons/python.png" alt="Python" width="50" height="50" />
+  <img src="path-to-your-icons/jupyter.png" alt="Jupyter Notebook" width="50" height="50" />
+  <img src="path-to-your-icons/r.png" alt="R" width="50" height="50" />
+  <img src="path-to-your-icons/powerbi.png" alt="Power BI" width="50" height="50" />
 </p>
 
 #### **DevOps & Tools:**
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="path-to-your-icons/docker.png" alt="Docker" width="50" height="50" />
+  <img src="path-to-your-icons/git.png" alt="Git" width="50" height="50" />
+  <img src="path-to-your-icons/postman.png" alt="Postman" width="50" height="50" />
 </p>
 
 ---
