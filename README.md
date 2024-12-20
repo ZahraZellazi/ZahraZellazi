@@ -72,10 +72,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/wxnsKAVzQNpqnQP0Sl/giphy.gif" width="300" alt="snake_eating_graph">
-</div>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZahraZellazi&theme=react&custom_title=Contribution%20Graph&hide_border=true&area=true&color=00CED1&line=00CED1&point=FFFFFF" alt="Contribution Graph" />
 </p>
