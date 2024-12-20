@@ -71,3 +71,24 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zahrazellazi&show_icons=true&locale=en" alt="zahrazellazi" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahrazellazi&" alt="zahrazellazi" />
 </p>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+![Zahra's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahraZellazi&theme=algolia&layout=compact)
+
+[![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahraZellazi&show_icons=true&theme=algolia)](https://github.com/ZahraZellazi)
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahraZellazi&theme=algolia" alt="Zahra's GitHub Streak" /></p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/wxnsKAVzQNpqnQP0Sl/giphy.gif" width="300" alt="snake_eating_graph">
+</div>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ZahraZellazi&theme=react&custom_title=Contribution%20Graph&hide_border=true&area=true&color=00CED1&line=00CED1&point=FFFFFF&hide_title=true)
+
+<div align="center">
+
