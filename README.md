@@ -61,13 +61,13 @@
 
 ### **📊 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZahraZellazi&show_icons=true&theme=default" alt="Zahra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZahraZellazi&show_icons=true&theme=algolia" alt="Zahra's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahraZellazi&theme=default&layout=compact" alt="Zahra's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZahraZellazi&theme=algolia&layout=compact" alt="Zahra's Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahraZellazi&theme=default" alt="Zahra's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahraZellazi&theme=algolia" alt="Zahra's GitHub Streak" />
 </p>
 
 ---
@@ -77,6 +77,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZahraZellazi&theme=minimal&custom_title=Contribution%20Graph&hide_border=true&area=true&color=000000&line=000000&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZahraZellazi&theme=react&custom_title=Contribution%20Graph&hide_border=true&area=true&color=00CED1&line=00CED1&point=FFFFFF" alt="Contribution Graph" />
 </p>
+
 
