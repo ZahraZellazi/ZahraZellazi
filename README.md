@@ -10,7 +10,7 @@
 
 ### **🔭 Current Projects**
 - **[Customer Churn Prediction](https://github.com/ZahraZellazi/ChurnPrediction)**.
-- **[ANOVA Project](https://github.com/ZahraZellazi/ANOVA-Analysis)**: Advanced statistical analysis with R.
+- **[ANOVA Project](https://github.com/ZahraZellazi/ANOVA-Analysis)**.
 
 ---
 
