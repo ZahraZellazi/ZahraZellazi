@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zahra Zellazi</h1>
-<h2 align="center">Aspiring Data Science Enthusiast</h2>
-<h5 align="center">I’m a dedicated and passionate Software Engineering student, driven by a desire to build innovative solutions that make an impact. My journey in software development began with a curiosity about how technology works, and it has since evolved into a full-fledged passion for both backend and frontend development. Lately, I’ve been diving deeper into data science and analysis.</h5>
+<h2 align="center">Aspiring Data Science Enthusiast | Engineering Student</h2>
+<h5 align="center">I'm a dedicated and passionate Software Engineering student in my second year, exploring data science and analytics. My journey started with a curiosity about how technology works, and it has since evolved into a passion for machine learning, data analysis, and statistical modeling. Currently, I'm diving deep into solving real-world problems through data science and building impactful solutions.</h5>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zahrazellazi&label=Profile%20views&color=0e75b6&style=flat" alt="zahrazellazi" />
@@ -9,8 +9,8 @@
 ---
 
 ### **🔭 Current Projects**
-- **[Customer Churn Prediction](https://github.com/ZahraZellazi/ChurnPrediction)**.
-- **[ANOVA Project](https://github.com/ZahraZellazi/ANOVA-Analysis)**.
+- **[Colon and lung cancer classification]([https://github.com/ZahraZellazi/ChurnPrediction](https://github.com/ZahraZellazi/Colon-and-lung-cancer-classification))**.
+- **[Tactic Sense]([https://github.com/ZahraZellazi/ANOVA-Analysis](https://github.com/ZahraZellazi/TacTicSense_4DS9))**.
 
 ---
 
