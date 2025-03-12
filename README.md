@@ -9,7 +9,6 @@
 ---
 
 ### **🔭 Current Projects**
-- **[Colon and lung cancer classification]([https://github.com/ZahraZellazi/ChurnPrediction](https://github.com/ZahraZellazi/Colon-and-lung-cancer-classification))**.
 - **[Tactic Sense]([https://github.com/ZahraZellazi/ANOVA-Analysis](https://github.com/ZahraZellazi/TacTicSense_4DS9))**.
 
 ---
